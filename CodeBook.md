@@ -82,9 +82,13 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 ## Transformation of data
 
 I. Merging of the training and the test sets to create one data set.
+
 II. Extraction of the measurements on the mean and standard deviation for each measurement.
+
 III. Naming the activities in the data set using the descriptive activity.
+
 IV. Labeling the data set with descriptive variable names.
+
 V. Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
