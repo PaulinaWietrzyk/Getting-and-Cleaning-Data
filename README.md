@@ -1,10 +1,10 @@
 # Getting and Cleaning Data
 
-*Project aim:
+# Project aim:
 
 Preparation of tidy data that can be used for later analysis.
 
-*Project plan:
+# Project plan:
 
 1. Download the raw data to local drive as zip file. 
 2. Unpack the zip file and set UCI HAR Dataset folder as working directory.
