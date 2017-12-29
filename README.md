@@ -1,10 +1,10 @@
 # Getting and Cleaning Data
 
-# Project aim:
+## Project aim:
 
 Preparation of tidy data that can be used for later analysis.
 
-# Project plan:
+## Project plan:
 
 I. Download the raw data to local drive as zip file. 
 
